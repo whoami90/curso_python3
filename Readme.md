@@ -1,0 +1,1 @@
+Arquivo criado com o intuíto de arquivar as skills e ferramentas utilizadas no curso, para consultas futuras. 
