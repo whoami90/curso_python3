@@ -19,3 +19,6 @@ ca = float(input('Comprimento do cateto adjascente: '))
 hi = math.hypot(co, ca)
 # A função hypot é o calculo da hipotenusa. 
 print('A hipotenusa irá medir {:.2f}'.format(hi))
+
+# Caso queira pode importar somente a hipotenusa: from math import hypot
+
